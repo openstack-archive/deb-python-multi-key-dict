@@ -1,3 +1,2 @@
 version=3
-http://pypi.python.org/packages/source/m/multi_key_dict multi_key_dict-(.*).tar.gz
-
+http://pypi.debian.net/multi_key_dict/multi_key_dict-(.*).tar.gz
