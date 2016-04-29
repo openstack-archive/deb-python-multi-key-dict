@@ -3,7 +3,7 @@
 PYTHONS:=$(shell pyversions -vr)
 PYTHON3S:=$(shell py3versions -vr)
 
-UPSTREAM_GIT = git://github.com/<please-user>/multi_key_dict.git
+UPSTREAM_GIT = https://github.com/formiaczek/multi_key_dict.git
 -include /usr/share/openstack-pkg-tools/pkgos.make
 
 %:
