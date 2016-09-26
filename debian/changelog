@@ -2,6 +2,8 @@ python-multi-key-dict (2.0.3-2) UNRELEASED; urgency=medium
 
   * Fixed VCS URLs (https).
   * d/rules: Fixed UPSTREAM_GIT.
+  * d/s/options: extend-diff-ignore of .gitreview
+  * d/control: Using OpenStack's Gerrit as VCS URLs.
 
  -- Ondřej Nový <novy@ondrej.org>  Sun, 28 Feb 2016 15:41:51 +0100
 

@@ -10,8 +10,8 @@ Build-Depends: debhelper (>= 9),
                python3-setuptools,
                python3-all
 Standards-Version: 3.9.6
-Vcs-Browser: https://anonscm.debian.org/cgit/openstack/python-multi-key-dict.git/
-Vcs-Git: https://anonscm.debian.org/git/openstack/python-multi-key-dict.git
+Vcs-Browser: https://git.openstack.org/cgit/openstack/deb-python-multi-key-dict?h=debian%2Fnewton
+Vcs-Git: https://git.openstack.org/openstack/deb-python-multi-key-dict -b debian/newton
 Homepage: https://github.com/formiaczek/multi_key_dict
 
 Package: python-multi-key-dict
